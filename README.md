@@ -52,7 +52,8 @@ By using the coords attribute we can select a particular area we needed ,Then us
 
 # Output:
 
-![images](https://github.com/chandru174642/Ex-04-webTech_imagemap/assets/139841798/0ca75b1d-5a94-4826-b63a-e18f6d1528ea)
+![image map](https://github.com/chandru174642/Ex-04-webTech_imagemap/assets/139841798/d2c26bdd-6da6-461e-8d26-f9fa55ad4e4d)
+
 
 
 # Result:
